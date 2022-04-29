@@ -1,3 +1,8 @@
+# Segue o teste tecnico
+### Teste desenvolvido na linguagem javascript
+*challenge JS* (https://github.com/Thiago-Moraes/challenge-rd/tree/master/javascript)
+
+
 # RD Challenge
 ## Nossas expectativas
 A equipe de engenharia da RDStation tem alguns princípios onde baseamos nosso trabalho diário. Um deles é: Projete seu código para ser mais fácil de entender, não mais fácil de escrever. 

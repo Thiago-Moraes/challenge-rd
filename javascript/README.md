@@ -16,3 +16,5 @@ cd javascript
 npm install
 npm test
 ```
+
+Ou rodar docker-compose up (para mostrar o resultado no terminal)
